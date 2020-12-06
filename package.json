@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-sync-history": "^1.0.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
